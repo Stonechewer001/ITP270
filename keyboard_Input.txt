@@ -1,0 +1,4 @@
+Key.caps_locktKey.caps_lockhis is a test
+this is a test
+Key.ctrlx *BACKSPACE*  *BACKSPACE* Key.esc *BACKSPACE*  *BACKSPACE*  *BACKSPACE* 
+Key.ctrlc
